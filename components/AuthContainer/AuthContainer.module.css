@@ -1,0 +1,8 @@
+.modalBackground {
+  backdrop-filter: blur(2px);
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.modalWrap {
+  box-shadow: 0 0 16px 0 rgb(0 0 0 / 50%);
+}

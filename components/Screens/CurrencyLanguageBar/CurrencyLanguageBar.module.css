@@ -1,0 +1,18 @@
+.languageBar {
+  padding-top: 4.5px;
+}
+
+.flag i {
+  font-size: 24px;
+}
+
+.smallFlag {
+  width: 30px;
+  height: 20px;
+}
+
+@media (max-width: 640px) {
+  .languageBar {
+    padding-top: 12px;
+  }
+}

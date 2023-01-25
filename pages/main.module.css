@@ -1,0 +1,4 @@
+.searchWraper {
+  @apply absolute top-0 w-full flex justify-center;
+  height: 100vh;
+}

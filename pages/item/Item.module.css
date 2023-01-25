@@ -1,0 +1,14 @@
+.mainSlider {
+    height: 460px;
+}
+
+.connectModal, .actionButton {
+    box-shadow: 0 0 16px 0 rgb(0 0 0 / 50%);
+}
+
+@media (max-width: 640px) {
+    .mainSlider {
+        height: 300px;
+    }
+} 
+	

@@ -1,0 +1,24 @@
+.controlBtn svg {
+    margin-top: -5px;
+}
+
+.incdecInput {
+    margin-top: -3px;
+    padding-right: 4px;
+    font-size: 20px !important;
+    width: 57px !important;
+    border: none !important;
+    font-weight: 700;
+}
+
+.sqftInput {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: transparent;
+    border-radius: 12px;
+    height: 42px;
+    width: 120px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: -3px;
+}

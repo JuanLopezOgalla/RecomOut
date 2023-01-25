@@ -1,0 +1,15 @@
+.header {
+  transition: all 0.3s ease-out;
+}
+
+.magnifyIcon {
+  font-size: 20px !important;
+}
+
+.mobileSearch {
+  box-shadow: 0 0 16px 0 rgb(0 0 0 / 50%);
+}
+
+.searchBar {
+  max-width: calc(100% - 170px);
+}

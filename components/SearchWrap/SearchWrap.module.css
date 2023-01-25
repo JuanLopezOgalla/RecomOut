@@ -1,0 +1,20 @@
+.searchBox {
+  left: 17%;
+  @apply absolute top-52 sm:top-72 w-5/6 sm:w-2/3 lg:w-1/2 lg:left-1/4 xl:bottom-1/4 h-88;
+  transition: all 0.3s ease-out;
+}
+
+.searchBoxDefault {
+  top: 100px;
+  opacity: 0;
+}
+
+.searchBoxActivate {
+  opacity: 1;
+}
+
+@media (max-width: 640px) {
+  .searchBox {
+    left: 8.5%;
+  }
+}

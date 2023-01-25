@@ -1,0 +1,42 @@
+.topMenu i {	
+    color: #040404;	
+    font-size: 20px !important;	
+}	
+
+.magnifyIcon {	
+    font-size: 24px;	
+    color: #828282;	
+    font-weight: 400;	
+    left: 36%;	
+    top: 45%;	
+}	
+
+.budgetInput {	
+    border: none;	
+    background-color: transparent;	
+    width: 84px;	
+    text-align: center;	
+    font-size: 20px;	
+    padding: 0;	
+    padding-top: 0 !important;	
+    font-weight: 600;	
+    color: #3F3D56;	
+    margin-left: 5px;	
+    height: 32px !important;	
+}	
+
+.leftBackground {	
+    background-image: url(/images/home-background.jpg);	
+}	
+
+.progressBar {	
+    transition: all 0.3s ease-out;	
+}	
+
+.uploadIcon {	
+    font-size: 24px;	
+}	
+
+.photoWrap {	
+    max-height: 785px;	
+} 	

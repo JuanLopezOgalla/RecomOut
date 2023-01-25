@@ -1,0 +1,9 @@
+.listSearch {
+    height: calc(100vh - 195px);
+}
+
+@media (max-width: 1024px) {
+    .listSearch {
+        height: auto;
+    }
+}

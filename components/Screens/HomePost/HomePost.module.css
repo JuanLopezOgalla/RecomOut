@@ -1,0 +1,8 @@
+.homeWrap {
+  box-shadow: 0 0 20px rgb(0 0 0 / 10%);
+  transition: all 0.3s ease-out;
+}
+
+.homeWrap:hover {
+  box-shadow: 0 0 30px rgb(0 0 0 / 30%);
+}

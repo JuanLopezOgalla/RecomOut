@@ -1,0 +1,22 @@
+.mainSlider {
+    height: 50px;
+}
+
+.connectModal, .actionButton {
+    box-shadow: 0 0 16px 0 rgb(0 0 0 / 50%);
+}
+.discountgradient{
+    background-image: linear-gradient(to right, rgb(32, 192, 227), rgb(48, 143, 255))
+}
+.securityagentgradient{
+    background-image: linear-gradient(to right, rgb(92, 193, 44), rgb(7, 178, 189))
+}
+.commissionrefundgradient{
+    background-image: linear-gradient(to right, rgb(47, 44, 193), rgb(118, 48, 255))
+}
+@media (max-width: 640px) {
+    .mainSlider {
+        height: 50px;
+    }
+}
+

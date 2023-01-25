@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://recom.estate/agent</loc>
+    <lastmod>2022-02-15T08:49:14.661Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://recom.estate/building</loc>
+    <lastmod>2022-02-15T08:49:14.661Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://recom.estate/checkout</loc>
+    <lastmod>2022-02-15T08:49:14.661Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://recom.estate/contact</loc>
+    <lastmod>2022-02-15T08:49:14.661Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://recom.estate/home</loc>
+    <lastmod>2022-02-15T08:49:14.661Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://recom.estate/item</loc>
+    <lastmod>2022-02-15T08:49:14.661Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://recom.estate/list</loc>
+    <lastmod>2022-02-15T08:49:14.661Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://recom.estate/listing</loc>
+    <lastmod>2022-02-15T08:49:14.661Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://recom.estate/live</loc>
+    <lastmod>2022-02-15T08:49:14.661Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://recom.estate/privacy</loc>
+    <lastmod>2022-02-15T08:49:14.661Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://recom.estate/profile</loc>
+    <lastmod>2022-02-15T08:49:14.661Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://recom.estate/properties</loc>
+    <lastmod>2022-02-15T08:49:14.661Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://recom.estate/listing/id</loc>
+    <lastmod>2022-02-15T08:49:14.661Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://recom.estate/listing/add</loc>
+    <lastmod>2022-02-15T08:49:14.661Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

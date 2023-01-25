@@ -1,0 +1,36 @@
+.mainContainer {
+  width: calc(100% - 280px);
+  margin: 100px auto 180px auto;
+}
+.mainImg {
+  display: flex;
+  justify-content: center;
+}
+.mainImg img{
+  margin: 0 auto;
+  width: 453px;
+}
+.description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;;
+  margin-top: 40px;
+}
+.description h5 {
+  font-family: Lato sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #1F1F24;
+  width: 374px;
+}
+.description button {
+  margin-top: 40px;
+  width: 180px;
+  border: none;
+  background: var(--main-red);
+  color: white;
+}

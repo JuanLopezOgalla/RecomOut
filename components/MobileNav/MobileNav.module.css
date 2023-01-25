@@ -1,0 +1,12 @@
+.mobileSearch {
+  transition: all 0.5s ease-out;
+}
+
+.mobileSearch i {
+  font-size: 24px;
+  color: black;
+}
+
+.searchIcon {
+  font-size: 18px !important;
+}

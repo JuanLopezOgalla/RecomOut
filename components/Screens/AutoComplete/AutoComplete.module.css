@@ -1,0 +1,14 @@
+.homeList {
+    height: calc(100vh - 250px);
+    box-shadow: 0 0 16px 0 rgb(0 0 0 / 50%);
+    @apply sm:h-autocomplete;
+}
+
+.shadowWrap {
+    box-shadow: 0 0 16px 0 rgb(0 0 0 / 50%);
+}
+
+.homeList i {
+    font-size: 18px !important;
+    color: rgba(0, 0, 0, 0.3) !important;
+}

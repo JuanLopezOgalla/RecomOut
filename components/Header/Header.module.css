@@ -1,0 +1,8 @@
+.header {
+  transition: all 0.3s ease-out;
+}
+
+.defaultHeader {
+  @apply bg-white pt-4;
+  box-shadow: 0 0 20px rgb(0 0 0 / 10%);
+}

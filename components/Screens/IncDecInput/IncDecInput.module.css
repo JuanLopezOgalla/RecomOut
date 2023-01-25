@@ -1,0 +1,21 @@
+.btn {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  margin-top: 2px;
+  padding-bottom: 4px;
+}
+
+.homeBtn {
+  background-color: white;
+  color: #308FFF;
+}
+
+.listBtn {
+  background-color: black;
+  color: white;
+}
+
+.btn svg {
+  margin-top: -4px;
+}
